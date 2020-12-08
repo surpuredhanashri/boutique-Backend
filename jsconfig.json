@@ -1,0 +1,8 @@
+//by having this configuration auto funcationality works pefect
+
+{
+    "compilerOptions": {
+      "target": "es6"
+    },
+    "exclude": ["node_modules"]
+  }
