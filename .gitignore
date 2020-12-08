@@ -1,7 +1,4 @@
-# 
-
-
+# boutique-ecommerce-app
 /node_modules
 npm-debug.log
 .DS_Store
-/*.env
